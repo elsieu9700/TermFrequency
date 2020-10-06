@@ -1,0 +1,7 @@
+default:
+javac termfreqs.java
+javac termfreqp.java
+
+clean:
+del *.class
+
